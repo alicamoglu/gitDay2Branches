@@ -5,5 +5,5 @@ public class contactPage {
 //    twitter
 //    instegram
 //    youtube
-
+//    email
 }
