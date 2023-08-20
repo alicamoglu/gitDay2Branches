@@ -6,4 +6,7 @@ public class ChangeforFeatureC {
 //    for second commit
 //    sth more
 
+//    third chenges
+//    for another commit
+
 }
